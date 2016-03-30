@@ -15,5 +15,7 @@ public class DeretFibonacci {
     hasil=a+b;
     System.out.print(hasil+" ");
         }
+    System.out.println();
+    System.out.println(hasil+c);
     }
 }
